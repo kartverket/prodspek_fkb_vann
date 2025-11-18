@@ -1,3 +1,4 @@
+
  
 <<<
 '''
@@ -27,7 +28,7 @@ Kystkontur skal v&#230;re med p&#229; &#229; avgrense havflate.
 Merknader:
 Kystkonturen kan v&#230;re gjennomg&#229;ende under sm&#229; brygger og lignende som st&#229;r p&#229; p&#230;ler og som stikker mindre enn 5 meter ut fra land.
 
-Kystkonturen skal f&#248;lge alle tekniske anlegg (kai/brygger ol.) som stikker mer enn 5 meter ut fra land, uavhengig om det er vann under eller ikke. Se beskrivelse for objekttype KystkonturTekniskeAnlegg.
+Kystkonturen skal f&#248;lge alle tekniske anlegg (kai/brygger o.l) som stikker mer enn 5 meter ut fra land, og skal da registreres som KystkonturTekniskeAnlegg.
 
 MEDIUM U benyttes p&#229; kystkontur som g&#229;r under terreng, for eksempel i kulvert. Skal ikke benyttes ved bruer. 
 
@@ -152,7 +153,7 @@ image::figurer/kystkontur_ved_kystkonturtekniskeanlegg.png[link=figurer/kystkont
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -162,12 +163,12 @@ image::figurer/kystkontur_ved_kystkonturtekniskeanlegg.png[link=figurer/kystkont
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -326,7 +327,7 @@ image::figurer/KaiBrygge1_BygnAnlegg_Vann.png[link=figurer/KaiBrygge1_BygnAnlegg
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -336,12 +337,12 @@ image::figurer/KaiBrygge1_BygnAnlegg_Vann.png[link=figurer/KaiBrygge1_BygnAnlegg
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -503,7 +504,7 @@ Kun skj&#230;r som har h&#248;yde lik eller h&#248;yere enn den lokale MHV-verdi
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -513,12 +514,12 @@ Kun skj&#230;r som har h&#248;yde lik eller h&#248;yere enn den lokale MHV-verdi
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -814,7 +815,7 @@ image::figurer/elvekant_ulike_vannstandsnivaaer.png[link=figurer/elvekant_ulike_
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -824,12 +825,12 @@ image::figurer/elvekant_ulike_vannstandsnivaaer.png[link=figurer/elvekant_ulike_
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -1121,7 +1122,7 @@ image::figurer/kanalkant_ulike_vannstandsnivaaer.png[link=figurer/kanalkant_ulik
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -1131,12 +1132,12 @@ image::figurer/kanalkant_ulike_vannstandsnivaaer.png[link=figurer/kanalkant_ulik
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -1431,7 +1432,7 @@ MEDIUM U benyttes p&#229; Innsj&#248;kant som ligger under terreng, for eksempel
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -1441,12 +1442,12 @@ MEDIUM U benyttes p&#229; Innsj&#248;kant som ligger under terreng, for eksempel
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -1761,7 +1762,7 @@ image::figurer/vann_stikkrenner.png[link=figurer/vann_stikkrenner.png, Alt="Ekse
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -1771,12 +1772,12 @@ image::figurer/vann_stikkrenner.png[link=figurer/vann_stikkrenner.png, Alt="Ekse
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -1939,7 +1940,7 @@ image::figurer/kanalgroft_senterlinje_ulike_vannstandsnivaaer.png[link=figurer/k
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -1949,12 +1950,12 @@ image::figurer/kanalgroft_senterlinje_ulike_vannstandsnivaaer.png[link=figurer/k
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -2099,7 +2100,7 @@ Kun den delen av gr&#248;fta som g&#229;r parallelt med veg registreres som obje
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -2109,12 +2110,12 @@ Kun den delen av gr&#248;fta som g&#229;r parallelt med veg registreres som obje
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -2247,7 +2248,7 @@ Sn&#248;IsbreKant skal avgrense objekttype Sn&#248;Isbre.
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -2257,12 +2258,12 @@ Sn&#248;IsbreKant skal avgrense objekttype Sn&#248;Isbre.
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -2525,7 +2526,7 @@ Det skal lages nodepunkt med &#248;vrige vannobjekter. Der det er naturlig skal 
 |[1..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -2535,12 +2536,12 @@ Det skal lages nodepunkt med &#248;vrige vannobjekter. Der det er naturlig skal 
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -2730,7 +2731,7 @@ Kan v&#230;re med p&#229; &#229; avgrense objekttype Innsj&#248;.
 |[0..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -2740,12 +2741,12 @@ Kan v&#230;re med p&#229; &#229; avgrense objekttype Innsj&#248;.
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
@@ -2902,7 +2903,7 @@ image::figurer/konnekteringvann_4.png[link=figurer/konnekteringvann_4.png, Alt="
 |[0..1]
  
 |kvalitet.datafangstmetode
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODE
 |[1..1]
  
@@ -2912,12 +2913,12 @@ image::figurer/konnekteringvann_4.png[link=figurer/konnekteringvann_4.png, Alt="
 |[0..1]
  
 |kvalitet.synbarhet
-|«» Synbarhet
+|Synbarhet
 |...SYNBARHET
 |[0..1]
  
 |kvalitet.datafangstmetodeHøyde
-|«» Datafangstmetode
+|Datafangstmetode
 |...DATAFANGSTMETODEHØYDE
 |[0..1]
  
