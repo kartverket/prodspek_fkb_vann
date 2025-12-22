@@ -1,4 +1,3 @@
-
  
 <<<
 '''
@@ -2781,13 +2780,11 @@ image::http://skjema.geonorge.no/SOSI/produktspesifikasjon/FKB-Vann/5.0/figurer/
  
 [discrete]
 ==== Tilleggsinformasjon for fotogrammetrisk registrering
-Benyttes for &#229; lage sammenhengende registrering mellom vannveger som &#229;penbart henger sammen, men der forl&#248;p er ukjent. Objekttypen kan brukes for &#229; knytte sammen vannveger gjennom bygningsmessig anlegg, dyrket mark, myromr&#229;der og liknende.
-
+Ved fotogrammetrisk datafangst *skal* vann som renner gjennom demning alltid registreres som objekttype _KonnekteringVann_ og medium B. Utover dette skal objekttype _KonnekteringVann_ kun registreres fotogrammetrisk der det er avtalt spesielt.
 
 Det skal lages nodepunkt mot tilst&#248;tende vannobjekter. Der det er naturlig lages det nodepunkt i 3D.
 
 
-Ved fotogrammetrisk ajourf&#248;ring skal vann som renner gjennom demning alltid registreres som objekttype _KonnekteringVann_ og medium B. Utover dette skal objekttype _KonnekteringVann_ ikke registreres fotogrammetrisk, med mindre annet er avtalt
 
 
 
