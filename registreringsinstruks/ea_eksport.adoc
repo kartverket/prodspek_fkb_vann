@@ -218,16 +218,22 @@ Det skal v&#230;re konstant h&#248;yde p&#229; KystkonturTekniskeAnlegg.
 
 KystkonturTekniskeAnlegg skal v&#230;re med p&#229; &#229; avgrense havflate.
 
-Merknader:
 Det skal bearbeides nodepunkt inntil Kystkontur. Nodepunktene dannes i 3D der dette er naturlig.
 KystkonturTekniskeAnlegg skal om mulig konnekteres til det tekniske anlegget i 2 dimensjoner. KystkonturTekniskeAnlegg skal ha samme grunnrisskoordinater som objektet, men med riktig vannh&#248;yde. 
 
 MEDIUM U benyttes p&#229; kystkontur som g&#229;r under terreng, for eksempel i kulvert. Skal ikke benyttes ved bruer. 
+
+KystkonturTekniskeAnlegg skal ogs&#229; brukes ved trapper som g&#229;r ned i vann. Disse registreres med <i>kystkonstruksjontype 11 </i>(trapper).
  
  
 '''
 .Illustrasjon av objekttype KystkonturTekniskAnlegg registrert for teknisk anlegg selv om teknisk anlegg er under minstemål i FKB-BygnAnlegg
 image::figurer/KaiBrygge1_BygnAnlegg_Vann.png[link=figurer/KaiBrygge1_BygnAnlegg_Vann.png, Alt="Illustrasjon av objekttype KystkonturTekniskAnlegg registrert for teknisk anlegg selv om teknisk anlegg er under minstemål i FKB-BygnAnlegg"]
+ 
+ 
+'''
+.
+image::figurer/trapp_i_vann.png[link=figurer/trapp_i_vann.png, Alt=""]
  
  
  
@@ -2936,3 +2942,4 @@ image::figurer/konnekteringvann_4.png[link=figurer/konnekteringvann_4.png, Alt="
  
 |===
 // End of Registreringsinstruks UML-model
+
