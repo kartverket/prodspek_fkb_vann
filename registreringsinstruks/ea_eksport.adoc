@@ -232,8 +232,8 @@ image::figurer/KaiBrygge1_BygnAnlegg_Vann.png[link=figurer/KaiBrygge1_BygnAnlegg
  
  
 '''
-.
-image::figurer/trapp_i_vann.png[link=figurer/trapp_i_vann.png, Alt=""]
+.Eksempel på registrering av KystkonturTekniskeAnlegg ved trapp som går ned i vannet.
+image::figurer/trapp_i_vann.png[link=figurer/trapp_i_vann.png, Alt="Eksempel på registrering av KystkonturTekniskeAnlegg ved trapp som går ned i vannet."]
  
  
  
@@ -2942,4 +2942,5 @@ image::figurer/konnekteringvann_4.png[link=figurer/konnekteringvann_4.png, Alt="
  
 |===
 // End of Registreringsinstruks UML-model
+
 
