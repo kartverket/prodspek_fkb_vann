@@ -223,7 +223,7 @@ KystkonturTekniskeAnlegg skal om mulig konnekteres til det tekniske anlegget i 2
 
 MEDIUM U benyttes p&#229; kystkontur som g&#229;r under terreng, for eksempel i kulvert. Skal ikke benyttes ved bruer. 
 
-KystkonturTekniskeAnlegg skal ogs&#229; brukes ved trapper som g&#229;r ned i vann. Disse registreres med <i>kystkonstruksjontype 11 </i>(trapper).
+KystkonturTekniskeAnlegg skal ogs&#229; brukes ved trapper som g&#229;r ned i vann. Disse registreres med kystkonstruksjontype 11 (trapper).
  
  
 '''
